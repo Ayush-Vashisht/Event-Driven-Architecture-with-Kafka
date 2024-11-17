@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/start-service.ts","./src/config/db.config.ts","./src/config/kafka-config.ts","./src/model/post.ts","./src/services/postconsume.ts"],"version":"5.6.3"}
